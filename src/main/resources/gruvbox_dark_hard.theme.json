@@ -1,7 +1,7 @@
 {
-  "name": "Gruvbox Dark Hard",
+  "name": "Gruvbox Dark Hard - WalterWoshid",
   "dark": true,
-  "author": "Vincent Parizet",
+  "author": "WalterWoshid",
   "editorScheme": "/gruvbox_dark_hard.xml",
   "colors": {
     "bg0": "#282828",
@@ -39,6 +39,11 @@
     "orange1": "#fe8019"
   },
   "ui": {
+    "Islands": 1,
+    "Island.borderColor": "bg2",
+    "Island.arc": 20,
+    "Island.borderWidth": 10,
+    "Island.borderWidth.compact": 8,
     "*": {
       "background": "bg",
       "foreground": "fg",
