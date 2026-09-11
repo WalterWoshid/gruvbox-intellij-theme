@@ -128,12 +128,12 @@
       "lightSelectionInactiveBackground":"bg"
     },
     "FileColor": {
-      "Yellow": "#fabd2f22",
-      "Green": "#b8bb2622",
-      "Blue": "#83a59822",
-      "Violet": "#d3869b22",
-      "Orange": "#fe801922",
-      "Rose": "#cc241d22"
+      "Yellow": "#3a3523",
+      "Green": "#313422",
+      "Blue": "#2a3131",
+      "Violet": "#352d31",
+      "Orange": "#3a2d20",
+      "Rose": "#342020"
     },
     "Link": {
       "activeForeground": "blue1",
